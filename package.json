@@ -1,0 +1,24 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulam92/heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulam92/heroku/issues"
+  },
+  "homepage": "https://github.com/paulam92/heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
